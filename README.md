@@ -1,2 +1,2 @@
 # amebaiot-examples
-To orgnaize AmebaIoT example files 
+To organize AmebaIoT example files 
