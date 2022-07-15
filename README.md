@@ -1,2 +1,5 @@
 # amebaiot-examples
-To orgnaize AmebaIoT example files 
+To organize AmebaIoT example files 
+
+## Boards
+BW16-TypeC
